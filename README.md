@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
+<a href="yoxy.xyz">my site</a>
+
 <h3 align="center">About Me</h3>
 <div align="center">
 Hobby programmer who enjoys modding applications to do things they aren't meant to. <br>
